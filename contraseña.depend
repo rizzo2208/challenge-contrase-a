@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647299683 source:c:\users\usuario\desktop\challenge\contraseña\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
